@@ -2,8 +2,6 @@
   <img src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif" alt="MasterHead" width="600" length="1000">
 </p>
 
-
-
 <h1 align="center">Hi 👋 I'm Zeenat Ahsan </h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
